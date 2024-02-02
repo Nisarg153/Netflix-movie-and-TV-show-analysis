@@ -1,4 +1,4 @@
-# Netflix analysis
+# Netflix Analysis
 Here I have used [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/), and [WordCloud](https://pypi.org/project/wordcloud/) for EDA purpose.
 
 Using [Pandas](https://pandas.pydata.org/) I cleaned the data and did the following steps
